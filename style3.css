@@ -1,0 +1,41 @@
+body {
+  width: 700px;
+  background-color: #675c47;
+  border: 8px double gray;
+  padding: 12px 12px 12px 12px;
+  font-family: sans-serif;
+  margin:0 auto;
+  }
+  h1 {
+  font-family: Monotype coursiva;
+  font-size:   240%;
+  font-weight: bold;
+  text-align:  center;
+  color:       orange;
+  }
+  h3 {
+  font-family: Geneva;
+  font-size:   100%;
+  font-weight: normal;
+  color:       #FFFFE0;
+  padding:     30px;
+  } 
+  .left4747ab4e361d {
+  float:left; 
+  margin: 4px 10px 2px 0px; 
+  }
+  #allcontent {
+  width:            630px;
+  padding:          30px;
+  padding-top:      10px;
+  padding-bottom:   10px;
+  background-image: url("pictures/photography-724502.jpg");
+  margin-left:      auto;
+  margin-right:     auto;
+  }
+  #footer {
+  font-size:   50%;
+  text-align:  center;
+  line-height: normal;
+  margin-top:  30px;
+  } 
